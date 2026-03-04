@@ -45,13 +45,31 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=moh-bash&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moh-bash&theme=tokyonight" alt="Top Languages" />
+
+  <!-- Row 1: Main Stats + Alternate Stats -->
+  <a href="https://github.com/moh-bash" target="_blank" style="margin-right:16px;">
+    <img src="https://gh-readme-profile.vercel.app/api?username=moh-bash&theme=tokyonight&bg_color=0d1117&title_color=34a89d&text_color=70a5fd&icon_color=bf91f3&username_color=bf91f3" alt="Mohamad GitHub stats" height="142px"/>
+  </a>
+
+  <a href="https://github.com/moh-bash" target="_blank">
+    <img alt="Mohamad's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=moh-bash&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" height="142px"/>
+  </a>
+
 </p>
 
----
+<p align="center" style="margin-top:16px;">
 
-<p align="center">
-⭐ <strong>"The expert in anything was once a beginner."</strong>
+  <!-- Row 2: Streak Stats + Top Languages -->
+  <a href="https://github.com/moh-bash" target="_blank" style="margin-right:16px;">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mohamad streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=mo-bash&theme=tokyonight&background=0d1117&stroke=34a89d&ring=bf91f3&fire=70a5fd&currStreakNum=70a5fd&sideNums=70a5fd&dates=70a5fd" height="162px"/>
+  </a>
+
+  <a href="https://github.com/moh-bash" target="_blank">
+    <img 
+      alt="Mohamad Top Languages" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=moh-bash&langs_count=8&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd" 
+      height="162px"
+    />
+  </a>
+
 </p>
