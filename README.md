@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  💻 HTML • CSS • JavaScript • Vue.js <br/>
+  💻 HTML • CSS • JavaScript • Vue.js • React.js<br/>
   🌱 Turning coffee into code, one commit at a time.
 </p>
 
