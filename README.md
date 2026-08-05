@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  🔗 <a href="https://moh-bashir.vercel.app/"><img src="explore-my-portfolio.svg" align="absmiddle" alt=" Explore My Portfolio" /></a>
+  🔗 <a href="https://moh-bashir.vercel.app/"> Explore My Portfolio"</a>
 </p>
 
 <p align="center">
